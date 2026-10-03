@@ -22,7 +22,7 @@
 <br/>
 
 <img src="https://hits.sh/github.com/tanishh18.svg?style=flat-square&label=PROFILE%20VIEWS&color=7C3AED&labelColor=0D1117" alt="Profile Views" />
-<a href="https://github.com/tanishh18?tab=followers"><img src="https://badgen.net/github/followers/tanishh18?label=FOLLOWERS&color=4F46E5&labelColor=0D1117" alt="Followers" /></a>
+<a href="https://github.com/tanishh18?tab=followers"><img src="https://img.shields.io/github/followers/tanishh18?label=FOLLOWERS&style=flat-square&color=4F46E5&labelColor=0D1117&cacheSeconds=3600" alt="Followers" /></a>
 <a href="https://github.com/tanishh18?tab=stars"><img src="https://img.shields.io/github/stars/tanishh18?style=flat-square&color=8B5CF6&labelColor=0D1117&label=STARS" alt="Stars" /></a>
 
 </div>
@@ -143,21 +143,11 @@ Internship focused on designing fintech products for live client problems.
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=tanishh18&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub Trophies" />
-
-</div>
-
----
-
 ## Contribution Activity
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-night-view.svg" alt="Contribution Activity" width="100%" />
+<img src="https://raw.githubusercontent.com/tanishh18/tanishh18/main/profile-3d-contrib/profile-night-view.svg" alt="Contribution Activity" width="100%" />
 
 </div>
 
