@@ -157,7 +157,7 @@ Internship focused on designing fintech products for live client problems.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishh18&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=4F46E5&hide_border=true&radius=12" alt="Contribution Graph" width="100%" />
+<img src="./profile-3d-contrib/profile-night-view.svg" alt="Contribution Activity" width="100%" />
 
 </div>
 
