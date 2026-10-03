@@ -21,9 +21,9 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=tanishh18&style=flat-square&color=7C3AED&label=PROFILE+VIEWS&labelColor=0D1117)
-[![Followers](https://img.shields.io/github/followers/tanishh18?style=flat-square&color=4F46E5&labelColor=0D1117&label=FOLLOWERS)](https://github.com/tanishh18?tab=followers)
-[![Stars](https://img.shields.io/github/stars/tanishh18?style=flat-square&color=8B5CF6&labelColor=0D1117&label=STARS)](https://github.com/tanishh18?tab=stars)
+<img src="https://hits.sh/github.com/tanishh18.svg?style=flat-square&label=PROFILE%20VIEWS&color=7C3AED&labelColor=0D1117" alt="Profile Views" />
+<a href="https://github.com/tanishh18?tab=followers"><img src="https://badgen.net/github/followers/tanishh18?label=FOLLOWERS&color=4F46E5&labelColor=0D1117" alt="Followers" /></a>
+<a href="https://github.com/tanishh18?tab=stars"><img src="https://img.shields.io/github/stars/tanishh18?style=flat-square&color=8B5CF6&labelColor=0D1117&label=STARS" alt="Stars" /></a>
 
 </div>
 
