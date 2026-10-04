@@ -89,6 +89,41 @@ I am a **software engineer** pursuing a Bachelor of Engineering in Computer Engi
 ## Featured Projects
 
 <details open>
+<summary><b>DevPilot | AI-Powered GitHub Repository Assistant</b></summary>
+
+<br/>
+
+A repository-aware GenAI assistant that syncs public and private GitHub repositories and answers questions about the code through a retrieval-augmented generation pipeline.
+
+| | |
+|:--|:--|
+| **Stack** | Java, Spring Boot, GitHub APIs, OAuth, RAG, Docker |
+| **Scale** | Public and private repository sync with code chunking and embeddings |
+| **Performance** | Real-time streaming responses using Server-Sent Events (SSE) |
+| **Impact** | Faster code understanding through semantic retrieval over a repository |
+| **Repository** | [DevPilot](https://github.com/tanishh18/REPO_NAME) |
+
+</details>
+
+<details>
+  
+<summary><b>NexusMed | AI-Powered Clinical Diagnosis Platform</b></summary>
+
+<br/>
+
+A full-stack healthcare application that generates context-aware insights from patient data using retrieval-augmented generation and the Gemini API.
+
+| | |
+|:--|:--|
+| **Stack** | React.js, Python, FastAPI, ChromaDB, Sentence Transformers, Gemini API |
+| **Scale** | Multilingual support across 5 languages |
+| **Performance** | Semantic retrieval over patient data with vector search |
+| **Impact** | Improved accessibility and reduced manual data entry |
+| **Repository** | [NexusMed](https://github.com/tanishh18/REPO_NAME) · [Live Demo](https://nexusmed-ai.vercel.app) |
+
+</details>
+
+<details open>
 <summary><b>Retail Customer Analytics</b></summary>
 
 <br/>
